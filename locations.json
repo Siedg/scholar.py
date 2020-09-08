@@ -53,6 +53,12 @@
       "latitude": -23.4400279,
       "longitude": -51.8745177,
       "description": "Uniasselvi Maringá"
+    },
+    {
+      "name": "UTFPR",
+      "latitude": -24.0604718,
+      "longitude": -52.3857755000000,
+      "description": "UTFPR Campus Campo Mourão"
     }
   ]
 }
